@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "45320113060",
+    "project_id": "my-anime-dictionary",
+    "storage_bucket": "my-anime-dictionary.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:45320113060:android:39186c8e61b760b9fa8f31",
+        "android_client_info": {
+          "package_name": "com.finalproyect.myanimedictionary"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "45320113060-mt7dhsv5nmg86cunlfcdl17e1bpv9fi0.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.finalproyect.myanimedictionary",
+            "certificate_hash": "b71ca9be6312e1bab38d125ade860813064aa710"
+          }
+        },
+        {
+          "client_id": "45320113060-hf8me9estv9fkkd1bj00daop7jt2fh2n.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBZuwA1_KjUXYqfzr8UKJYBve9UmeBt1qE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "45320113060-hf8me9estv9fkkd1bj00daop7jt2fh2n.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Users/Alvaro/AndroidStudioProjects/My_Anime_Dictionary/app/src/main/res/layout/activity_auth.xml" value="0.358695652173913" />
+        <entry key="..\:/Users/Alvaro/AndroidStudioProjects/My_Anime_Dictionary/app/src/main/res/layout/activity_main.xml" value="0.358695652173913" />
+        <entry key="..\:/Users/Alvaro/AndroidStudioProjects/My_Anime_Dictionary/app/src/main/res/layout/activity_splash_screen.xml" value="0.358695652173913" />
+        <entry key="..\:/Users/Alvaro/AndroidStudioProjects/My_Anime_Dictionary/app/src/main/res/layout/anime_details_bottom_sheet_layout.xml" value="0.358695652173913" />
+        <entry key="..\:/Users/Alvaro/AndroidStudioProjects/My_Anime_Dictionary/app/src/main/res/layout/anime_item_layout.xml" value="0.358695652173913" />
+        <entry key="..\:/Users/Alvaro/AndroidStudioProjects/My_Anime_Dictionary/app/src/main/res/layout/episode_item_layout.xml" value="0.358695652173913" />
+        <entry key="..\:/Users/Alvaro/AndroidStudioProjects/My_Anime_Dictionary/app/src/main/res/layout/fragment_favourites.xml" value="0.358695652173913" />
+        <entry key="..\:/Users/Alvaro/AndroidStudioProjects/My_Anime_Dictionary/app/src/main/res/layout/fragment_home.xml" value="0.358695652173913" />
+        <entry key="..\:/Users/Alvaro/AndroidStudioProjects/My_Anime_Dictionary/app/src/main/res/layout/fragment_settings.xml" value="0.358695652173913" />
+        <entry key="..\:/Users/alvar/OneDrive/Escritorio/Proyecto final android/app/src/main/res/drawable-v24/ic_launcher_foreground.xml" value="0.309" />
+        <entry key="..\:/Users/alvar/OneDrive/Escritorio/Proyecto final android/app/src/main/res/drawable-v24/login_button_style.xml" value="0.309" />
+        <entry key="..\:/Users/alvar/OneDrive/Escritorio/Proyecto final android/app/src/main/res/drawable-v24/settings_icon.xml" value="0.253" />
+        <entry key="..\:/Users/alvar/OneDrive/Escritorio/Proyecto final android/app/src/main/res/drawable/aplication_logo_background.xml" value="0.309" />
+        <entry key="..\:/Users/alvar/OneDrive/Escritorio/Proyecto final android/app/src/main/res/drawable/background_user.xml" value="0.1865" />
+        <entry key="..\:/Users/alvar/OneDrive/Escritorio/Proyecto final android/app/src/main/res/drawable/episode_foreground.xml" value="0.309" />
+        <entry key="..\:/Users/alvar/OneDrive/Escritorio/Proyecto final android/app/src/main/res/drawable/facebook_button.xml" value="0.1865" />
+        <entry key="..\:/Users/alvar/OneDrive/Escritorio/Proyecto final android/app/src/main/res/drawable/ic_baseline_star_24.xml" value="0.1725" />
+        <entry key="..\:/Users/alvar/OneDrive/Escritorio/Proyecto final android/app/src/main/res/drawable/ic_baseline_turned_in_24.xml" value="0.309" />
+        <entry key="..\:/Users/alvar/OneDrive/Escritorio/Proyecto final android/app/src/main/res/drawable/ic_launcher_background.xml" value="0.309" />
+        <entry key="..\:/Users/alvar/OneDrive/Escritorio/Proyecto final android/app/src/main/res/drawable/ic_logout.xml" value="0.1865" />
+        <entry key="..\:/Users/alvar/OneDrive/Escritorio/Proyecto final android/app/src/main/res/drawable/ic_play.xml" value="0.309" />
+        <entry key="..\:/Users/alvar/OneDrive/Escritorio/Proyecto final android/app/src/main/res/drawable/login_button_style.xml" value="0.1865" />
+        <entry key="..\:/Users/alvar/OneDrive/Escritorio/Proyecto final android/app/src/main/res/drawable/profile_picture_background.xml" value="0.1865" />
+        <entry key="..\:/Users/alvar/OneDrive/Escritorio/Proyecto final android/app/src/main/res/drawable/signup_button_style.xml" value="0.1865" />
+        <entry key="..\:/Users/alvar/OneDrive/Escritorio/Proyecto final android/app/src/main/res/font/bangers.xml" value="0.3194444444444444" />
+        <entry key="..\:/Users/alvar/OneDrive/Escritorio/Proyecto final android/app/src/main/res/layout-v28/fragment_settings.xml" value="0.3605072463768116" />
+        <entry key="..\:/Users/alvar/OneDrive/Escritorio/Proyecto final android/app/src/main/res/layout/activity_auth.xml" value="0.25" />
+        <entry key="..\:/Users/alvar/OneDrive/Escritorio/Proyecto final android/app/src/main/res/layout/activity_main.xml" value="0.14722222222222223" />
+        <entry key="..\:/Users/alvar/OneDrive/Escritorio/Proyecto final android/app/src/main/res/layout/activity_splash_screen.xml" value="0.17831813576494426" />
+        <entry key="..\:/Users/alvar/OneDrive/Escritorio/Proyecto final android/app/src/main/res/layout/anime_details_bottom_sheet_layout.xml" value="0.25" />
+        <entry key="..\:/Users/alvar/OneDrive/Escritorio/Proyecto final android/app/src/main/res/layout/anime_item_layout.xml" value="0.33" />
+        <entry key="..\:/Users/alvar/OneDrive/Escritorio/Proyecto final android/app/src/main/res/layout/episode_item_layout.xml" value="0.358695652173913" />
+        <entry key="..\:/Users/alvar/OneDrive/Escritorio/Proyecto final android/app/src/main/res/layout/fragment_favourites.xml" value="0.33" />
+        <entry key="..\:/Users/alvar/OneDrive/Escritorio/Proyecto final android/app/src/main/res/layout/fragment_home.xml" value="0.31741573033707865" />
+        <entry key="..\:/Users/alvar/OneDrive/Escritorio/Proyecto final android/app/src/main/res/layout/fragment_settings.xml" value="0.30376344086021506" />
+        <entry key="..\:/Users/alvar/OneDrive/Escritorio/Proyecto final android/app/src/main/res/menu/bottom_navigation.xml" value="0.36666666666666664" />
+        <entry key="..\:/Users/alvar/OneDrive/Escritorio/Proyecto final android/app/src/main/res/mipmap-anydpi-v26/ic_launcher.xml" value="0.196" />
+        <entry key="..\:/Users/alvar/OneDrive/Escritorio/Proyecto final android/app/src/main/res/xml/network_security_config.xml" value="0.18802083333333333" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_1_8" default="true" project-jdk-name="corretto-1.8" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>

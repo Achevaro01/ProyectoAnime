@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <style name="appTheme" parent="Theme.Design.NoActionBar">
+        <item name="colorPrimaryDark">#0C131C</item>
+    </style>
+</resources>
